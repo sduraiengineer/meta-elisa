@@ -4,7 +4,7 @@ DESCRIPTION = "SDK image for AGL Distribution for Cluster profile Demo. \
 It includes the full meta-toolchain, plus developement headers and libraries \
 to form a standalone cross SDK."
 
-require elisa-cluster-demo-platform.bb
+require elisa-cluster-demo-qt.bb
 
 LICENSE = "MIT"
 
